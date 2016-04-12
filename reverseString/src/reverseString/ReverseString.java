@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class ReverseString {
 	public static void main(String []args){
-		//main method done johns is a ootin
+		Scanner input = new Scanner(System.in);
+		//Scanner variable Declared Bobby likes Catherine's tae 
 	}
 	//TODO Declare Scanner variable
 	//TODO Declare String variable
