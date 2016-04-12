@@ -2,7 +2,6 @@ package reverseString;
 import java.util.Scanner;
 
 public class ReverseString {
-	//TODO add main method
 	public static void main(String []args){
 		//main method done johns is a ootin
 	}
