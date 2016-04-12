@@ -3,7 +3,7 @@ Just 3 regular guys trying to learn some Java. <br/>
 
 <h4>Members:</h4>
 Ken - piq9117@yahoo.com <br/>
-John - <br/>
+John - kuyajohn09@gmail.com <br/>
 Bobby - <br/>
 
 # Projects
