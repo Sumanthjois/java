@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class ReverseString {
 	//TODO add main method
+	public static void main(String []args){
+		//main method done johns is a ootin
+	}
 	//TODO Declare Scanner variable
 	//TODO Declare String variable
 	//TODO Take input String input
