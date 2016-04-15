@@ -10,9 +10,8 @@ Bobby - yim.bobby@gmail.com <br/>
 <h4>String Reversal</h4>
 Write a program that will take a String input and output the reverse of the String that was inputted.<br/>
 Tasks:
-  <ul>
+  <ol>
     <li>Accept <strong>string</strong> input</li>
-    <li>Iterate through the String input</li>
     <li>Reverse the <strong>string</strong> input</li>
     <li>Output the reversed <strong>string</strong></li>
-  </ul>
+  </ol>
