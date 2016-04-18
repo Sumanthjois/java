@@ -8,4 +8,4 @@ Bobby - yim.bobby@gmail.com <br/>
 
 # Projects
 <h4>String Reversal</h4>
-Write a program that will take a String input and output the reverse of the String that was inputted.<br/>
+<strong>Task:</strong> Write a program that will take a String input and output the reverse of the String that was inputted.<br/>
